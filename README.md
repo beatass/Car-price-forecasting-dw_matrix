@@ -1,7 +1,7 @@
 # Car price forecasting
 
 Here there are specific topics from 5 days challenge initialized by Vladimir Alekseichenko
-in his Machine Learning - MATRIX challenge, posted in 02-06.03.2020.
+in his MATRIX (part two) project, posted in 02-06.03.2020.
 
 Description of particular days:
 
