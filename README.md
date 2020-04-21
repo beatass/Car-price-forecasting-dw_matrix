@@ -3,7 +3,7 @@
 Here there are specific topics from 5 days challenge initialized by Vladimir Alekseichenko
 in his MATRIX (part two) project, posted in 02-06.03.2020.
 
-Description of particular days:
+## Description of particular days:
 
 * day 1 - Colab environment, data preparation, setting up a new repository on GitHub
 * day 2 - data visualization and drawing conclusions
